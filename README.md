@@ -18,7 +18,7 @@
 - [Karolina Kucka](https://github.com/kjkucka/laby_informatyka) gr. 4
 - [Łucja Leśna](https://github.com/llesna/studia) gr. 4
 - [Karolina Kucka](https://github.com/kjkucka/laby_informatyka) gr. 4
-- [Szymon Możdżeń](https://github.com/smozdzen1/SPJP2023-2024) gr. 4
+- [Szymon Możdżeń](https://github.com/smozdzen1/Programowanie_sm) gr. 4
 - [Robert Siewruk](https://github.com/rsgitt/studiaug) gr. 4
 - [Szymon Bagniewski](https://github.com/SBagniewski/progr/tree/master) gr. 4
 - [Oliwia Natzke](https://github.com/onatzke/studia) gr. 4
