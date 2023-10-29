@@ -20,7 +20,7 @@
 - [Karolina Kucka](https://github.com/kjkucka/laby_informatyka) gr. 4
 - [Szymon Możdżeń](https://github.com/smozdzen1/SPJP2023-2024) gr. 4
 - [Robert Siewruk](https://github.com/rsgitt/studiaug) gr. 4
-- [Szymon Bagniewski](https://github.com/SBagniewski/progr) gr. 4
+- [Szymon Bagniewski](https://github.com/SBagniewski/progr/tree/master) gr. 4
 - [Oliwia Natzke](https://github.com/onatzke/studia) gr. 4
 - [Aliaksandr Petushok](https://github.com/AliaksandrPetushok/laby_Informatyka) gr. 4
 - [Jakub Szterk](https://github.com/pytqq/studia) gr. 4
