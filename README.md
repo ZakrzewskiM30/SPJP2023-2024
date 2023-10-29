@@ -4,4 +4,4 @@
 
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP2023-2024/) gr. NAUCZYCIEL
 - [Mikołaj Mozoluk](https://github.com/Jalokim2115/Jezyki-Programowania-2023-2024) gr. 2
-- [Jacek Gryckiewicz](https://github.com/FoRtY-5/studia) gr. 2
+- [Stanisław Potrykus](https://github.com/SPotrykus/C-Project) gr. 2
