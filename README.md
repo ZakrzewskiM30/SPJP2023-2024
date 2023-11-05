@@ -15,7 +15,7 @@
 - [Adam Pitrowski](https://github.com/adamigz/studia) gr. 2
 - [Maciej Jańdziński](https://github.com/FajF3r/Laboratioria.git) gr. 2
 - [Mateusz Gruba](https://github.com/tedooted/JPSP23-24) gr. 4
-- [Szymon Możdżeń](https://github.com/smozdzen1/Informatyka) gr. 4
+- [Szymon Możdżeń](https://github.com/smozdzen1/Kolokwium) gr. 4
 - [Grzegorz Wrzosek](https://github.com/gwrzosek2/Programowanie_gw) gr.4
 - [Robert Siewruk](https://github.com/rsgitt/studiaug) gr. 4
 - [Wiktor Rakocki](https://github.com/RakockiW/LabUG) gr. 4
