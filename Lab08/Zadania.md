@@ -24,7 +24,7 @@ WEJŚCIE: Posortowana tablica TAB[1..N], element n
 WYJŚCIE: True jeśli n znajduje się w TAB, False w przeciwnym przypadku
 
 left = 1
-right = n
+right = N
 result = False
 Dopóki left <= right:
   middle := floor((left + right) / 2)
