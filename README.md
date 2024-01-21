@@ -1,3 +1,7 @@
+## Oceny z przedmiotu Środowisko Programisty znajdują się w pliku Oceny_SP_Z_Fin.PNG
+
+## Oceny z przedmiotu Języki Programowania znajdują się w pliku Oceny_JP_Z_Fin.PNG
+
 # Laboratoria Środowisko programisty + Języki programowania
 
 ## Lista uczestników \[Imię Nazwisko\]\(link do repozytorium\) gr. nr grupy
